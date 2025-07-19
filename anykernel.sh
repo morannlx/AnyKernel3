@@ -130,6 +130,6 @@ if [ -n "$MODULE_PATH" ]; then
     esac
 fi
 
-ui_print "内核刷写完成，重启即可生效，4秒后自动安装适配的管理器，届时软件会自动退出"
+ui_print "内核刷写完成，重启即可生效，4秒后自动安装适配的管理器，届时Sukisu-Ultra会自动退出"
 sleep 4
 pm install SukiSU-Ultra.apk
