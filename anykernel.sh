@@ -132,4 +132,4 @@ fi
 
 ui_print "内核刷写完成，重启即可生效，4秒后自动安装适配的管理器，届时软件会自动退出"
 sleep 4
-pm install Sukisu-Ultra.apk
+pm install SukiSU-Ultra.apk
